@@ -1,0 +1,6 @@
+name: WorldInventories
+version: 1.0
+main: com.exmogamers.worldinventories.Main
+api-version: 1.16
+website: exmogamers.com
+author: InvertedOwl#0001
